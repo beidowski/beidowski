@@ -1,4 +1,8 @@
 ## Hi 👋
 
-I’m a Junior Software & Game Developer with a focus on Unity (C#) and gameplay systems. I enjoy building clean, scalable, and maintainable architectures while turning ideas into functional interactive experiences.
-Beyond game development, I explore cybersecurity fundamentals to better understand how software systems can be designed to be secure, predictable, and resilient. I’m currently strengthening this area through certifications and hands-on learning.
+Software & Game Developer with experience in backend and VR development. I am a 
+junior software developer who continues learning through hands-on practice with technologies such 
+as Python, C#, and Unity. During my internships, I contributed to problem-solving and user experience 
+improvements. I learn quickly, pay attention to details, and take responsibility in team environments. 
+I am currently seeking a junior role where I can grow and make long-term contributions. I am open to 
+learning and feedback.
