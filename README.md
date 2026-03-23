@@ -1,10 +1,13 @@
-Hi, I'm Beyda.
+# Hi! I'm Beyda Kılıçoğlu
 
-Developer from Turkey.
+I'm a recent grad full-stack software engineer.
 
-Currently focused on a full-stack project.
-  
-→ @beidowski (Twitter / X)  
-→ linkedin.com/in/beydakilicoglu
+Currently deep into my personal full-stack project 🚀
 
-That's it.
+Always open to collaborate – code reviews, side projects, pair programming, idea jams, or just chatting tech.
+Feel free to DM or let's meet up, no hesitation!
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beydakilicoglu) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/beidowski)
