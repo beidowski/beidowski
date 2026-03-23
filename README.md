@@ -2,7 +2,7 @@ Hi, I'm Beyda.
 
 Developer from Turkey.
 
-Currently focused on Next.js and Node.
+Currently focused on a full-stack project.
   
 → @beidowski (Twitter / X)  
 → linkedin.com/in/beydakilicoglu
