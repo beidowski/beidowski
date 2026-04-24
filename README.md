@@ -1,6 +1,6 @@
 # Hi! I'm Beyda Kılıçoğlu
 
-I'm a recent grad full-stack software engineer.
+I'm a recent grad software engineer.
 
 Currently deep into my personal projects 🚀
 
