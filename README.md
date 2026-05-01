@@ -1,4 +1,4 @@
-# Hi! I'm Beyda Kılıçoğlu
+# Hi! I'm Beyda
 
 I'm a recent grad software engineer.
 
