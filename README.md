@@ -1,6 +1,6 @@
 # Hi! I'm Beyda
 
-I am a software engineer focused on creating impactful solutions. I love the challenge of complex projects, and I carry that same competitive spirit into my gaming sessions.
+I'm a new grad software engineer.
 
 Currently deep into my personal projects 🚀
 
